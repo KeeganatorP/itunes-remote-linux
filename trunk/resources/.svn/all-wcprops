@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/10/trunk/resources
+END
+pairing-gui.glade
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/9/trunk/resources/pairing-gui.glade
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/8/trunk/resources/setup.py
+END
+itunes-remote-applet.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/resources/itunes-remote-applet.desktop
+END
+itunes-controller.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8/trunk/resources/itunes-controller.sh
+END

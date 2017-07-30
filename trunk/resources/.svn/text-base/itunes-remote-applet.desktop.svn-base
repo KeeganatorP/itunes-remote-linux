@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=iTunes Remote
+Icon=audio-x-generic
+Type=Application
+Categories=AudioVideo;
+Exec=itunes-remote-applet.py
+StartupNotify=False
+Terminal=false
+Comment=Control iTunes on a remote computer

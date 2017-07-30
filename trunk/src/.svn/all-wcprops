@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/8/trunk/src
+END
+itunes-remote-applet.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/src/itunes-remote-applet.py
+END
+pairing_service.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/trunk/src/pairing_service.py
+END
+dacp_serialisation.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/trunk/src/dacp_serialisation.py
+END
